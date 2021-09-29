@@ -5,7 +5,7 @@ A simple shooting space game in processing, using HandPoseOSC and Wekinator for 
 
 Still in progress...
 
-![screen-gif](./react_dash.gif)
+![screen-gif](./gif_SpaceGame.gif)
 
 
 Not possible without:
