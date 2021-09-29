@@ -1,50 +1,6 @@
 /* -------------
  #TODO
- 
- ___________________________-
-
- - Obstáculos:
- asteroide "explota" en disparo
- ajustar tiempos y direcciones.
- - Interfaz:
- Pantallas: inicio, fin.
- transparencias y tamaño cursores
- nave al lado del score
- citar sprite
- - Captura: 
-   movimiento y angulo mira
- ML para captura mov
- 
- -------------*/
- /*
- Load image en setuo o en array
- MOUSEJOINT para x e y de personaje "Teletransportar" (ver las clases)
- probar valores continuos para mapear direccion y angulo de mano
- Ajustar entrenamiento. buscar nueva camara!! o una con menos ruido.
- revisar colisiones chequear true y luego evaluar etiquetas
- ajustar clase enemigo heredaar de fBox directamente.
- 
- */
- 
- //-----------
-/* //castear FJoint y borrar juntas
- FJoint jointTemp = (FJoint) uno.getJoints().get(0);
- 
- 
- world.remove(jointTemp.getBody2());
- 
- if ( uno.getJoints().size() > 1 ) {
- FJoint jointTemp2 = (FJoint) uno.getJoints().get(1);
- world.remove(jointTemp2.getBody2());
- }
- 
- 
- // Amortiguación ejemplo
- amort = ratio de amort; 
- caraX = rostros[rostro].x * amortiguacion + caraX * (1-amortiguacion);
- caraY =rostros[rostro].y * amortiguacion + caraY * (1-amortiguacion);;
- 
- 
+ ....
  */
 
 
